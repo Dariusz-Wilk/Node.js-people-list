@@ -1,0 +1,122 @@
+[
+  {
+    "gender": "F",
+    "firstName": "Róża",
+    "lastName": "Zając",
+    "age": 20
+  },
+  {
+    "gender": "M",
+    "firstName": "Tomasz",
+    "lastName": "Król",
+    "age": 53
+  },
+  {
+    "gender": "F",
+    "firstName": "Anna",
+    "lastName": "Wójcik",
+    "age": 57
+  },
+  {
+    "gender": "M",
+    "firstName": "Jacek",
+    "lastName": "Wójcik",
+    "age": 43
+  },
+  {
+    "gender": "F",
+    "firstName": "Grażyna",
+    "lastName": "Walczak",
+    "age": 54
+  },
+  {
+    "gender": "M",
+    "firstName": "Grzegorz",
+    "lastName": "Zając",
+    "age": 66
+  },
+  {
+    "gender": "F",
+    "firstName": "Paulina",
+    "lastName": "Walczak",
+    "age": 44
+  },
+  {
+    "gender": "F",
+    "firstName": "Łucja",
+    "lastName": "Walczak",
+    "age": 54
+  },
+  {
+    "gender": "M",
+    "firstName": "Oskar",
+    "lastName": "Nowak",
+    "age": 68
+  },
+  {
+    "gender": "M",
+    "firstName": "Adam",
+    "lastName": "Wójcik",
+    "age": 48
+  },
+  {
+    "gender": "F",
+    "firstName": "Wiktoria",
+    "lastName": "Kaczmarek",
+    "age": 65
+  },
+  {
+    "gender": "F",
+    "firstName": "Barbara",
+    "lastName": "Woźniak",
+    "age": 28
+  },
+  {
+    "gender": "F",
+    "firstName": "Paulina",
+    "lastName": "Jawor",
+    "age": 71
+  },
+  {
+    "gender": "F",
+    "firstName": "Łucja",
+    "lastName": "Wróbel",
+    "age": 28
+  },
+  {
+    "gender": "M",
+    "firstName": "Wiktor",
+    "lastName": "Kowalczyk",
+    "age": 68
+  },
+  {
+    "gender": "F",
+    "firstName": "Wiktoria",
+    "lastName": "Woźniak",
+    "age": 77
+  },
+  {
+    "gender": "M",
+    "firstName": "Paweł",
+    "lastName": "Jawor",
+    "age": 61
+  },
+  {
+    "gender": "F",
+    "firstName": "Katarzyna",
+    "lastName": "Woźniak",
+    "age": 46
+  },
+  {
+    "gender": "M",
+    "firstName": "Dawid",
+    "lastName": "Nowak",
+    "age": 40
+  },
+  {
+    "gender": "M",
+    "firstName": "Norbert",
+    "lastName": "Kowalczyk",
+    "age": 65
+  }
+]
