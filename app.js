@@ -1,4 +1,5 @@
 const fs = require('fs');
+const randomId = require('@dark_wilk/id-generator');
 
 const genders = ['M', 'F'];
 
@@ -34,6 +35,7 @@ for (let i = 1; i <= 20; i++) {
 	}
 	personObj.lastName = randChoice(surnames);
 	personObj.age = Math.floor(Math.random() * 60 + 18);
+	personObj.id = randomId(10);
 
 	people.push(personObj);
 }
